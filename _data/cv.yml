@@ -21,7 +21,7 @@ cv:
         area: Computer Science
         studyType: M.S.
         start_date: 2025
-        end_date: 2027 (expected)
+        end_date: 2027
         highlights:
           - Pursuing Master's degree in Computer Science
 
@@ -40,8 +40,8 @@ cv:
       - company: Freedo Technology
         position: Research Intern
         location: Beijing, China
-        start_date: Summer 2025
-        end_date: Summer 2025
+        start_date: May 2025
+        end_date: August 2025
         summary: Research internship focused on 3D building reconstruction from noisy point clouds
         highlights:
           - Built an end-to-end depth-conditioned ControlNet denoising pipeline for 3D building reconstruction from noisy point clouds
