@@ -67,7 +67,28 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-icons">
+          {% if site.data.socials.cv_pdf %}
+            <a href="{{ site.data.socials.cv_pdf }}" title="CV">
+              <i class="ai ai-cv"></i>
+            </a>
+          {% endif %}
+          {% if site.data.socials.email %}
+            <a href="mailto:{{ site.data.socials.email }}" title="Email">
+              <i class="fas fa-envelope"></i>
+            </a>
+          {% endif %}
+          {% if site.data.socials.github %}
+            <a href="https://github.com/{{ site.data.socials.github }}" title="GitHub">
+              <i class="fab fa-github"></i>
+            </a>
+          {% endif %}
+          {% if site.data.socials.linkedin %}
+            <a href="https://linkedin.com/in/{{ site.data.socials.linkedin }}" title="LinkedIn">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          {% endif %}
+        </div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
