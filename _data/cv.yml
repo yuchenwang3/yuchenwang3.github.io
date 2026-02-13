@@ -3,6 +3,7 @@ cv:
   label: Computer Science Graduate Student
   email: yuchenwang0303@gmail.com
   location: Champaign, IL
+  phone: (217) 480-2166
   image: ""
   summary: Computer Science graduate student at UIUC with research interests in machine learning, LLM systems, and computer vision.
 
@@ -43,8 +44,8 @@ cv:
         end_date: Summer 2025
         summary: Research internship focused on 3D building reconstruction from noisy point clouds
         highlights:
-          - Built an end-to-end depth-conditioned ControlNet denoising pipeline
-          - Used normal maps as inputs and depth maps as structural conditions
+          - Built an end-to-end depth-conditioned ControlNet denoising pipeline for 3D building reconstruction from noisy point clouds
+          - Used normal maps as inputs and depth maps as structural conditions to guide denoising
           - Improved geometric fidelity from ~30% to ~80% on representative cases
 
     Projects:
@@ -54,9 +55,9 @@ cv:
         end_date: Dec 2025
         summary: Workload-aware micro-batching and request packing for LLM prefill
         highlights:
-          - Designed an AIMD-based dynamic batching controller
-          - Implemented length-aware packing for heterogeneous prompts
-          - Achieved up to ~20% lower end-to-end TTFT vs. Prepacking
+          - Designed an AIMD-based dynamic batching controller adapting prefill trigger thresholds
+          - Implemented length-aware packing for heterogeneous prompts to reduce padding waste
+          - Achieved up to ~20% lower end-to-end TTFT vs. Prepacking under conversational workloads
 
       - name: FlashAttention v1 and CUDA Kernel Optimization for GPT-2 Inference
         location: UIUC
