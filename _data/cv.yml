@@ -41,7 +41,7 @@ cv:
         position: Research Intern
         location: Beijing, China
         start_date: May 2025
-        end_date: August 2025
+        end_date: Aug 2025
         summary: Research internship focused on 3D building reconstruction from noisy point clouds
         highlights:
           - Built an end-to-end depth-conditioned ControlNet denoising pipeline for 3D building reconstruction from noisy point clouds
