@@ -414,9 +414,9 @@ ninja.data = [{
           description: "ECE 408 GPT-2 Inference Optimization Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gpt2-inference-optimization/";
-            },},{id: "projects-grpo-project-reinforcement-learning-for-legal-reasoning",
-          title: 'GRPO Project - Reinforcement Learning for Legal Reasoning',
-          description: "Reinforcement Learning for Legal Reasoning on Multi-Choice QA",
+            },},{id: "projects-reinforcement-learning-for-legal-reasoning-on-multi-choice-qa",
+          title: 'Reinforcement Learning for Legal Reasoning on Multi-Choice QA',
+          description: "Developed a hybrid training framework for LLM legal reasoning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/grpo-project/";
             },},{id: "projects-dynamic-prefill-optimization-via-adaptive-online-packing",
