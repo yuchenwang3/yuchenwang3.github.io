@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Science graduate student at the University of Illinois Urbana-Champaign (UIUC), expected to graduate in 2027. I completed my Bachelor's degree in Intelligence Science and Technology from Peking University in 2025, with a GPA of 3.73 (Top 20%).
+I am a Computer Science graduate student at the University of Illinois Urbana-Champaign (UIUC), expected to graduate in 2027. I completed my Bachelor's degree in Intelligence Science and Technology from Peking University in 2025.
 
 My research interests include machine learning, LLM systems, and computer vision. I have hands-on experience with various projects, including dynamic prefill optimization for LLMs, CUDA kernel optimization for GPT-2 inference, reinforcement learning for legal reasoning, and interactive world models for video generation.
 
