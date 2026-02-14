@@ -409,8 +409,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-gpt-2-inference-optimization-with-cuda",
-          title: 'GPT-2 Inference Optimization with CUDA',
+          section: "News",},{id: "projects-flashattention-v1-and-cuda-kernel-optimization-for-gpt-2-inference",
+          title: 'FlashAttention v1 and CUDA Kernel Optimization for GPT-2 Inference',
           description: "ECE 408 GPT-2 Inference Optimization Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gpt2-inference-optimization/";
@@ -419,8 +419,8 @@ ninja.data = [{
           description: "Reinforcement Learning for Legal Reasoning on Multi-Choice QA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/grpo-project/";
-            },},{id: "projects-prepack-workspace",
-          title: 'Prepack Workspace',
+            },},{id: "projects-dynamic-prefill-optimization-via-adaptive-online-packing",
+          title: 'Dynamic Prefill Optimization via Adaptive Online Packing',
           description: "CS 498 Machine Learning System Course Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prepack/";
