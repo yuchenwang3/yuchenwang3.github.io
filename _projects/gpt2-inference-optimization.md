@@ -5,7 +5,7 @@ description: ECE 408 GPT-2 Inference Optimization Project
 importance: 9
 category: work
 github: yuchenwang3/gpt2-inference-optimization
-pdf: /gpt2-inference-optimization-report.pdf
+pdf: /gpt2-inference-optimization-detailed-report.pdf
 ---
 
 # FlashAttention v1 and CUDA Kernel Optimization for GPT-2 Inference

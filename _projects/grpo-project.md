@@ -1,13 +1,13 @@
 ---
 layout: page
-title: GRPO Project - Reinforcement Learning for Legal Reasoning
-description: Reinforcement Learning for Legal Reasoning on Multi-Choice QA
+title: Reinforcement Learning for Legal Reasoning on Multi-Choice QA
+description: Developed a hybrid training framework for LLM legal reasoning
 importance: 8
 category: work
 pdf: /thesis.pdf
 ---
 
-# GRPO Project - Reinforcement Learning for Legal Reasoning
+# Reinforcement Learning for Legal Reasoning on Multi-Choice QA
 
 This project focuses on developing a hybrid training framework for LLM legal reasoning using GRPO (Generalized Policy Optimization).
 

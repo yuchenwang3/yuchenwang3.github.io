@@ -81,6 +81,7 @@ cv:
           - Created a Zero-RL → SFT with distilled CoT → GRPO framework
           - Achieved 57.6% accuracy on benchmark test sets
           - Enabled structured legal reasoning with precise statute citation
+        url: /projects/grpo-project/
 
       - name: Interactive World Model and Variable-Length Video Generation
         location: UIUC
