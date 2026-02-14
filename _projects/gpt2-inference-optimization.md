@@ -1,14 +1,14 @@
 ---
 layout: page
-title: GPT-2 Inference Optimization with CUDA
+title: FlashAttention v1 and CUDA Kernel Optimization for GPT-2 Inference
 description: ECE 408 GPT-2 Inference Optimization Project
 importance: 9
 category: work
 github: yuchenwang3/gpt2-inference-optimization
-pdf: assets/pdf/projects/gpt2-inference-optimization-report.pdf
+pdf: /gpt2-inference-optimization-report.pdf
 ---
 
-# GPT-2 Inference Optimization with CUDA
+# FlashAttention v1 and CUDA Kernel Optimization for GPT-2 Inference
 
 This project focuses on optimizing GPT-2 inference performance through CUDA kernel optimization and memory-efficient techniques.
 
@@ -45,3 +45,7 @@ This project focuses on optimizing GPT-2 inference performance through CUDA kern
 ## Final Report
 
 The project includes a comprehensive final report detailing the optimization techniques and performance results.
+
+### Related Experience
+
+You can find more details about this project in my [CV](/cv/) under the Projects section.

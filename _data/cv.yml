@@ -58,6 +58,7 @@ cv:
           - Designed an AIMD-based dynamic batching controller adapting prefill trigger thresholds
           - Implemented length-aware packing for heterogeneous prompts to reduce padding waste
           - Achieved up to ~20% lower end-to-end TTFT vs. Prepacking under conversational workloads
+        url: /projects/prepack/
 
       - name: FlashAttention v1 and CUDA Kernel Optimization for GPT-2 Inference
         location: UIUC
@@ -69,6 +70,7 @@ cv:
           - Reduced HBM traffic from ~1.57MB to ~0.15MB
           - Improved arithmetic intensity by 10.3×
           - Achieved up to ~9% speedup vs. baseline
+        url: /projects/gpt2-inference-optimization/
 
       - name: Reinforcement Learning for Legal Reasoning on Multi-Choice QA
         location: Peking University
