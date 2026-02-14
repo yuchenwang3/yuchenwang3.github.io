@@ -31,7 +31,7 @@ I am a Computer Science graduate student at the University of Illinois Urbana-Ch
 
 My research interests include machine learning, LLM systems, and computer vision. I have hands-on experience with various projects, including dynamic prefill optimization for LLMs, CUDA kernel optimization for GPT-2 inference, reinforcement learning for legal reasoning, and interactive world models for video generation.
 
-During my internship at Freedo Technology, I built an end-to-end depth-conditioned ControlNet denoising pipeline for 3D building reconstruction from noisy point clouds, improving geometric fidelity from ~30% to ~80% on representative cases.
+
 
 I am proficient in Python, C, C++, and LaTeX, with advanced skills in PyTorch, Hugging Face Transformers, and LLM systems like vLLM and Megatron-LM. I have received several academic awards, including the Zhi Class Scholarship from Peking University and the First Prize in the Provincial Chinese Mathematical Olympiad.
 
