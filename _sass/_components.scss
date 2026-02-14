@@ -175,21 +175,21 @@ ul.task-list input[type="checkbox"] {
 .pdf-icon {
   display: inline-block;
   margin-right: 1rem;
-  
+
   .icon {
     display: inline-block;
-    
+
     a {
       color: var(--global-text-color);
       text-decoration: none;
-      
+
       &:hover {
         color: var(--global-theme-color);
       }
-      
+
       i {
         font-size: 1.5rem;
-        
+
         &.gh-icon,
         &.pdf-icon {
           margin-right: 0.25rem;
@@ -197,7 +197,7 @@ ul.task-list input[type="checkbox"] {
       }
     }
   }
-  
+
   .stars {
     display: inline-block;
     font-size: 1rem;
