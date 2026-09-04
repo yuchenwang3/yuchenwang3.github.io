@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Yuchen Wang monogram</title>
+  <defs>
+    <linearGradient id="background" x1="14" y1="10" x2="116" y2="122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1d3b68"/>
+      <stop offset="0.58" stop-color="#14233d"/>
+      <stop offset="1" stop-color="#291f42"/>
+    </linearGradient>
+    <linearGradient id="type" x1="32" y1="38" x2="96" y2="91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f3f7fd"/>
+      <stop offset="1" stop-color="#a9c8f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="27" fill="url(#background)"/>
+  <rect x="5" y="5" width="118" height="118" rx="23" fill="none" stroke="#8eb6ec" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M28 39.5 43.5 65v23.5M59 39.5 43.5 65M66 40l10.5 48.5L88 55l11.5 33.5L110 40" fill="none" stroke="url(#type)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+  <circle cx="103" cy="27" r="6" fill="#d07167"/>
+</svg>
