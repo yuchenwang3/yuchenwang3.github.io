@@ -57,7 +57,7 @@ ninja.data = [
     },{
       id: "research-open-source-systems-engineering",
       title: "Open-Source Systems Engineering",
-      description: "Training reliability, long-context kernels, RL infrastructure, and inference serving · Open-source engineering · Distributed training, Long-context kernels, RL and inference systems",
+      description: "Numerical correctness, GPU memory, RL data transfer, and reliable agent execution · Open-source engineering · Distributed training, Long-context kernels, RL and inference systems, Agent runtimes",
       section: "Research",
       handler: () => {
         window.location.href = "/projects/open-source-systems/";
