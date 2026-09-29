@@ -49,10 +49,18 @@ ninja.data = [
     },{
       id: "research-cineflow",
       title: "CineFlow",
-      description: "Dependency-driven parallel execution for scalable, consistent video generation · Research paper · Video diffusion, Parallel systems, Dependency scheduling",
+      description: "Dependency-driven parallel execution for scalable, consistent video generation · Research manuscript · Video diffusion, Parallel systems, Dependency scheduling",
       section: "Research",
       handler: () => {
         window.location.href = "/projects/cineflow/";
+      },
+    },{
+      id: "research-raredx",
+      title: "RareDx",
+      description: "Controlled knowledge integration and graph-grounded policy optimization for rare-disease diagnosis · Research preprint · Reinforcement learning, Medical reasoning, Rare-disease diagnosis",
+      section: "Research",
+      handler: () => {
+        window.location.href = "/projects/raredx/";
       },
     },{
       id: "research-open-source-systems-engineering",
