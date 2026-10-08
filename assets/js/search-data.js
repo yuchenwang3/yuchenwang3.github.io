@@ -41,7 +41,7 @@ ninja.data = [
   },{
       id: "research-occamy-1-0",
       title: "Occamy-1.0",
-      description: "Open Pareto-frontier 35B Intelligence for Co-work · Model \u0026 systems · Agentic post-training, Long-horizon tool use, RL infrastructure",
+      description: "Open Pareto-frontier 35B Intelligence for Co-work · Model \u0026 systems · Agentic post-training, Long-horizon tool use, RL infrastructure, Training data",
       section: "Research",
       handler: () => {
         window.location.href = "/projects/occamy-1-0/";
@@ -49,7 +49,7 @@ ninja.data = [
     },{
       id: "research-cineflow",
       title: "CineFlow",
-      description: "Dependency-driven parallel execution for scalable, consistent video generation · Research manuscript · Video diffusion, Parallel systems, Dependency scheduling",
+      description: "Co-first author — dependency-driven parallel execution for scalable, consistent video generation · Research manuscript · Video diffusion, Parallel systems, Dependency scheduling",
       section: "Research",
       handler: () => {
         window.location.href = "/projects/cineflow/";
@@ -57,7 +57,7 @@ ninja.data = [
     },{
       id: "research-raredx",
       title: "RareDx",
-      description: "Controlled knowledge integration and graph-grounded policy optimization for rare-disease diagnosis · Research preprint · Reinforcement learning, Medical reasoning, Rare-disease diagnosis",
+      description: "Co-first author — controlled knowledge integration and graph-grounded policy optimization for rare-disease diagnosis · Research preprint · Reinforcement learning, Medical reasoning, Rare-disease diagnosis",
       section: "Research",
       handler: () => {
         window.location.href = "/projects/raredx/";
