@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Yuchen Wang — Curriculum Vitae</title>
+  <desc id="description">A typographic CV preview for Yuchen Wang, with an abstract document graphic and no portrait.</desc>
+  <rect width="1200" height="630" fill="#f5f7fb"/>
+  <rect width="20" height="630" fill="#002f92"/>
+  <path d="M20 0H1200V20H20Z" fill="#e8edf8"/>
+  <path d="M20 610H1200V630H20Z" fill="#e8edf8"/>
+
+  <text x="82" y="113" fill="#002f92" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="1.5">YUCHEN WANG</text>
+  <rect x="82" y="150" width="620" height="3" fill="#002f92"/>
+
+  <text x="78" y="263" fill="#1d2835" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700">Curriculum</text>
+  <text x="78" y="350" fill="#1d2835" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700">Vitae</text>
+
+  <text x="83" y="430" fill="#36506f" font-family="Arial, Helvetica, sans-serif" font-size="28">Agentic post-training  ·  ML systems</text>
+  <text x="83" y="484" fill="#56687d" font-family="Arial, Helvetica, sans-serif" font-size="22">Research  /  Open-source engineering  /  Education</text>
+  <text x="83" y="567" fill="#002f92" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600">yuchenwang3.github.io/cv/</text>
+
+  <rect x="803" y="112" width="294" height="405" rx="12" fill="#dce4f1"/>
+  <rect x="791" y="100" width="294" height="405" rx="12" fill="#ffffff" stroke="#d5dfed" stroke-width="2"/>
+  <rect x="826" y="143" width="104" height="12" rx="6" fill="#002f92"/>
+  <rect x="826" y="183" width="208" height="6" rx="3" fill="#d5dfed"/>
+  <rect x="826" y="202" width="181" height="6" rx="3" fill="#d5dfed"/>
+  <rect x="826" y="250" width="85" height="9" rx="4.5" fill="#7291c8"/>
+  <rect x="826" y="274" width="209" height="5" rx="2.5" fill="#d5dfed"/>
+  <rect x="826" y="291" width="192" height="5" rx="2.5" fill="#d5dfed"/>
+  <rect x="826" y="308" width="203" height="5" rx="2.5" fill="#d5dfed"/>
+  <rect x="826" y="354" width="126" height="9" rx="4.5" fill="#7291c8"/>
+  <rect x="826" y="378" width="206" height="5" rx="2.5" fill="#d5dfed"/>
+  <rect x="826" y="395" width="190" height="5" rx="2.5" fill="#d5dfed"/>
+  <rect x="826" y="441" width="110" height="9" rx="4.5" fill="#7291c8"/>
+  <rect x="826" y="465" width="199" height="5" rx="2.5" fill="#d5dfed"/>
+</svg>
