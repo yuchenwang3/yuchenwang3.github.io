@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Yuchen (Ean) Wang — Research portfolio</title>
+  <desc id="desc">Agentic post-training, reinforcement learning, and ML systems. UIUC Computer Science and Alibaba Accio.</desc>
+  <defs>
+    <style>
+      @font-face {
+        font-family: PortfolioSerif;
+        src: url("../fonts/portfolio/Newsreader-latin-var.woff2") format("woff2");
+      }
+      @font-face {
+        font-family: PortfolioSans;
+        src: url("../fonts/portfolio/Inter-latin-var.woff2") format("woff2");
+      }
+      .serif {
+        font-family: PortfolioSerif, Georgia, serif;
+      }
+      .sans {
+        font-family: PortfolioSans, sans-serif;
+      }
+    </style>
+  </defs>
+  <rect width="1200" height="630" fill="#f5f3ee" />
+  <rect width="1200" height="12" fill="#243b64" />
+  <path d="M76 142H1124M76 506H1124" stroke="#1d2430" stroke-opacity=".18" />
+  <text x="76" y="100" class="sans" font-size="26" fill="#586170">UIUC Computer Science · Alibaba Accio</text>
+  <text x="76" y="264" class="serif" font-size="88" fill="#1d2430">Yuchen (Ean) Wang</text>
+  <text x="80" y="352" class="sans" font-size="44" font-weight="500" fill="#243b64">Agentic post-training</text>
+  <text x="80" y="412" class="sans" font-size="32" fill="#586170">Reinforcement learning · ML systems</text>
+  <text x="80" y="562" class="sans" font-size="26" fill="#243b64">yuchenwang3.github.io</text>
+  <g fill="none" stroke="#243b64" stroke-width="2" stroke-opacity=".25">
+    <path d="M970 256H1046L1104 314V386M970 386H1046L1104 328" />
+    <circle cx="970" cy="256" r="7" fill="#f5f3ee" />
+    <circle cx="970" cy="386" r="7" fill="#f5f3ee" />
+    <circle cx="1104" cy="321" r="10" fill="#f5f3ee" />
+  </g>
+</svg>
