@@ -47,22 +47,6 @@ ninja.data = [
         window.location.href = "/projects/occamy-1-0/";
       },
     },{
-      id: "research-cineflow",
-      title: "CineFlow",
-      description: "Co-first author — dependency-driven parallel execution for scalable, consistent video generation · Research manuscript · Video diffusion, Parallel systems, Dependency scheduling",
-      section: "Research",
-      handler: () => {
-        window.location.href = "/projects/cineflow/";
-      },
-    },{
-      id: "research-raredx",
-      title: "RareDx",
-      description: "Co-first author — controlled knowledge integration and graph-grounded policy optimization for rare-disease diagnosis · Research preprint · Reinforcement learning, Medical reasoning, Rare-disease diagnosis",
-      section: "Research",
-      handler: () => {
-        window.location.href = "/projects/raredx/";
-      },
-    },{
       id: "research-open-source-systems-engineering",
       title: "Open-Source Systems Engineering",
       description: "RL infrastructure, long-context training, inference optimization, and reliable training pipelines · Open-source engineering · Distributed training, Long-context kernels, RL and inference systems, Agent runtimes",
