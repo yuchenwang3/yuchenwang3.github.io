@@ -14,29 +14,11 @@ ninja.data = [
   },
   {
     id: "page-research",
-    title: "Papers & Projects · Research overview",
-    description: "Selected papers, technical reports, CUDA systems, inference, reinforcement learning, video generation, open source",
+    title: "Research & Projects · Research overview",
+    description: "Research, technical reports, CUDA systems, inference, reinforcement learning, video generation, open source",
     section: "Pages",
     handler: () => {
       window.location.href = "/projects/";
-    },
-  },
-  {
-    id: "page-cv",
-    title: "CV · Experience, education & selected work",
-    description: "Curriculum vitae resume internships publications projects skills UIUC Peking University Alibaba",
-    section: "Pages",
-    handler: () => {
-      window.location.href = "/cv/";
-    },
-  },
-  {
-    id: "page-cv-pdf",
-    title: "CV · Download PDF",
-    description: "One-page resume curriculum vitae PDF",
-    section: "Pages",
-    handler: () => {
-      window.location.href = "/CV.pdf";
     },
   },{
       id: "research-occamy-1-0",
@@ -91,7 +73,7 @@ ninja.data = [
   {
     id: "link-scholar",
     title: "Google Scholar · Yuchen Wang",
-    description: "Research papers publications citations academic profile",
+    description: "Research publications citations academic profile",
     section: "Links",
     handler: () => {
       window.open("https://scholar.google.com/citations?user=NharhG8AAAAJ", "_blank", "noopener");
