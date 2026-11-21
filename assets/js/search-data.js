@@ -31,7 +31,7 @@ ninja.data = [
     },{
       id: "research-open-source-systems-engineering",
       title: "Open-Source Systems Engineering",
-      description: "RL infrastructure, long-context training, inference optimization, and reliable training pipelines · Open-source engineering · Distributed training, Long-context kernels, RL and inference systems, Agent runtimes",
+      description: "Agent evaluation, RL infrastructure, long-context training, inference optimization, and reliable training pipelines · Open-source engineering · Agent evaluation, Distributed training, Long-context kernels, RL and inference systems, Agent runtimes",
       section: "Research",
       handler: () => {
         window.location.href = "/projects/open-source-systems/";
